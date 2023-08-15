@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Survival:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Survival_jar</output-path>
+    <root id="archive" name="Survival.jar">
+      <element id="module-output" name="Survival" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../SignGUI/api/target/signgui-1.9.2-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../SignGUI/abstraction/target/signgui-abstraction-1.9.2-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../SignGUI/1_19_R3/target/signgui-1_19_R3-1.9.2-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Jars 2023/packetevents-spigot-2.0.0-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../newjars/AnvilGUI-5.1-shaded.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

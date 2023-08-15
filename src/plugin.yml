@@ -1,0 +1,23 @@
+################################################################################
+# "content" means Survival source code, files, jars, databases
+#
+# THIS PLUGIN IS MADE FOR USE ON THE TWISTEDMC MINECRAFT SERVER
+# DO NOT USE ON YOUR OWN SERVER TO TEST USE THE TWISTEDMC DEVELOPMENT SERVER
+# DO NOT DISTRIBUTE - YOU MAY NOT COPY, REPRODUCE, DISTRIBUTE, PUBLISH, DISPLAY,
+# PERFORM, CREATE DERIVATIVE WORKS, TRANSMIT, OR IN ANY WAY EXPLOIT ANY SUCH CONTENT,
+# NOR MAY YOU DISTRIBUTE ANY PART OF THIS CONTENT OVER ANY NETWORK, INCLUDING A LOCAL AREA NETWORK,
+# SELL OR OFFER IT FOR SALE, OR USE SUCH CONTENT TO CONSTRUCT ANY KIND OF DATABASE.
+# COPYING OR STORING ANY CONTENT EXCEPT FOR DEVELOPMENT PURPOSES FOR THE TWISTEDMC MINECRAFT SERVER IS
+# EXPRESSLY PROHIBITED WITHOUT PRIOR WRITTEN PERMISSION OF TwistedMC Studios, LLC.
+#
+# © TwistedMC Studios, LLC All Rights Reserved.
+#
+################################################################################
+
+name: Survival
+main: com.twistedmcstudios.survival.Survival
+version: 0.0.1
+author: shastagrande
+website: https://twistedmc.net
+depend: [Core, PlaceholderAPI, DecentHolograms]
+api-version: 1.19
